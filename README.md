@@ -16,5 +16,3 @@ Under the hood, I have also used :
 
 - Material Icons
 - Styled Components
-
-# react-redux-list

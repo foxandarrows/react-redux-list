@@ -1,6 +1,6 @@
 # A grocery list, with React & Redux
 
-[Demo](https://foxandarrows.github.io/react-redux-my-grocery-list/)
+[Demo](https://foxandarrows.github.io/react-redux-list/)
 
 For now : Create, Read and Delete (WIP)
 
@@ -17,5 +17,4 @@ Under the hood, I have also used :
 - Material Icons
 - Styled Components
 
-# react-redux-list
 # react-redux-list
